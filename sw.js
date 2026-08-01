@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hyoje-library-v4';
+const CACHE_NAME = 'hyoje-library-v5';
 const ASSETS = [
   './',
   './index.html',
